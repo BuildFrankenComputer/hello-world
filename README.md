@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-Starting up with GetHub
+Hello
+
+I am trying to learn something about web development.
